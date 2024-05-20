@@ -111,10 +111,10 @@ header{
     overflow: hidden;
 }
 .container img{
-    width: 400px;
+    width: 850px;
     position: absolute;
     bottom: 100px;
-    right: 200px;
+    right: 50px;
 
 }
 .home-text{
