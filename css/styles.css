@@ -124,11 +124,7 @@ header{
     right: 50px;
 
 }
-.container{
-    max-width: 968px;
-    margin: auto;
-    width: 100%;
-}
+
 .home-text{
     padding: 0 150px;
     color: var(--bg-color);
