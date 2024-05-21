@@ -211,7 +211,7 @@ header{
     font-weight: 500;
     font-size: 13px;
 }
-/* newsletter */
+/* newsletter
 .newsletter{
     background: var(--bg-color);
     display: flex;
@@ -253,10 +253,9 @@ header{
     text-transform: uppercase;
     color: var(--bg-colour);
     cursor: pointer;
-}
+} */
 .copyright{
     text-align: center;
     padding: 30px;
     color: var(--bg-color);
-    margin-bottom: -25rem;
 }
