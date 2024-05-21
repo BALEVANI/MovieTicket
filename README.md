@@ -18,7 +18,7 @@ This is an application which is used to get movie tickets , it has a lot of func
 ## Setup/Installation Requirements
 * Clone this repository to your desktop
 * Navigate to the top level of your directory
-* Click on text analyser/index.html
+* Click on MovieTicket/index.html
 
 ## Known Bugs
 * No Known Bugs
